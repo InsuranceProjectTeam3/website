@@ -1,0 +1,50 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="helpingseniors.info" resolutions="1x" timestamp="1477577954531">
+  <folder name="css">
+    <file name="site_global.css" crc="193055914"/>
+    <file name="master_a-master.css" crc="215873406" ref="about-us:lifestyle:index:carriers:contact-us"/>
+    <file name="about-us.css" crc="201314956" ref="about-us"/>
+    <file name="lifestyle.css" crc="201314956" ref="lifestyle"/>
+    <file name="index.css" crc="4016384742" ref="index"/>
+    <file name="carriers.css" crc="494812290" ref="carriers"/>
+    <file name="contact-us.css" crc="4069371819" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="museutils.js" crc="3851988764" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="museconfig.js" crc="169177150" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="require.js" crc="4108833657" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="webpro.js" crc="4067903014" ref="contact-us"/>
+    <file name="form_check.php" crc="121412709" ref="contact-us"/>
+    <file name="form_throttle.php" crc="4268640971" ref="contact-us"/>
+    <file name="form_process.php" crc="444429785" ref="contact-us"/>
+    <file name="form-u563.php" crc="132588676" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-822082x250.svg" crc="3863666369" seo="true" ref="index:about-us:carriers:lifestyle:contact-us"/>
+    <file name="pasted svg 822082x250_poster_.png" crc="15392582" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u290-grad.png" crc="360033202" ref="index"/>
+    <file name="high-dose-flu-hd.jpg" crc="464068123" seo="true" ref="index"/>
+    <file name="u305-4.png" crc="237523652" ref="index"/>
+    <file name="pasted image 2520x1252.jpg" crc="89847340" seo="true" ref="index"/>
+    <file name="u334-4.png" crc="496145151" ref="index"/>
+    <file name="pasted image 2644x1267.jpg" crc="356170675" seo="true" ref="index"/>
+    <file name="u349-10.png" crc="4171149330" ref="index"/>
+    <file name="u740-grad.png" crc="3781593047" ref="contact-us"/>
+    <file name="pasted image 4000x2262.jpg" crc="71311659" seo="true" ref="contact-us"/>
+    <file name="u576-17.png" crc="504538479" ref="contact-us"/>
+    <file name="u576-17-r.png" crc="533942058" ref="contact-us"/>
+    <file name="u576-17-m.png" crc="4236577099" ref="contact-us"/>
+    <file name="u576-17-fs.png" crc="4289511894" ref="contact-us"/>
+    <file name="u309-7.png" crc="4029941861" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4180917893" seo="true" mt="1477577810613" redirect="true"/>
+  <file name="about-us.html" crc="111597367" seo="true" mt="1477577810613" redirect="true"/>
+  <file name="carriers.html" crc="464018214" seo="true" mt="1477577810613" redirect="true"/>
+  <file name="lifestyle.html" crc="329257500" seo="true" mt="1477577810613" redirect="true"/>
+  <file name="contact-us.html" crc="4157621295" seo="true" mt="1477577810613" redirect="true"/>
+</manifest>
